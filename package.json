@@ -27,7 +27,7 @@
     "exceljs": "^1.6.3",
     "fast-csv": "^2.4.1",
     "hoek": "^6.0.3",
-    "xlsx": "^0.14.1"
+    "xlsx": "0.14.2"
   },
   "devDependencies": {
     "code": "5.x.x",
